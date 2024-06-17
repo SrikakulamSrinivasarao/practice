@@ -1,2 +1,4 @@
 Email id 
 Password
+phone number
+password
